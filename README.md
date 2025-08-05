@@ -25,7 +25,7 @@ The script targets the real causes of low disk space - temp folders, Windows Upd
 ### Execute the script:
 `.\C-Drive-Cleanup.ps1`
 Review generated logs and reports in:
-'C:\Temp\DiskCleanupLogs'
+`C:\Temp\DiskCleanupLogs`
 
 ### Example Outputs
 Disk Usage Before/After - CSV reports show how much space was reclaimed.
