@@ -6,7 +6,7 @@
 This PowerShell tool automates a safe and thorough cleanup of Windows C: drives.
 It is designed for IT support engineers, lab environments, and anyone who needs a reliable way to reclaim disk space without touching user data.
 
-The script targets the real causes of low disk space — temp folders, Windows Update leftovers, log files, and caches — areas that built‑in cleanup tools often miss.
+The script targets the real causes of low disk space - temp folders, Windows Update leftovers, log files, and caches - areas that built‑in cleanup tools often miss.
 
 ### Features
 - Clear temp folders and caches from both user and system directories.
@@ -30,7 +30,7 @@ Review generated logs and reports in:
 ### Example Outputs
 Disk Usage Before/After - CSV reports show how much space was reclaimed.
 Large Files Report - Flags files over 1 GB for review or relocation.
-Folder Size Report - Identifies the largest directories under C:\Users.
+Folder Size Report - Identifies the largest directories under `C:\Users`.
 
 ### Requirements
 - Windows 10 or later
