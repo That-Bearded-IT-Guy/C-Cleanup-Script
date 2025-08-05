@@ -45,7 +45,7 @@ Folder Size Report - Identifies the largest directories under `C:\Users`.
 
 ### Learn More
 This script is part of my write-up:
-https://thatbeardeditguy.com/c-drive-cleanup-clearing-the-bloat-without-nuking-the-system
+[C: Drive Cleanup - Clearing the Bloat Without Nuking the System](https://thatbeardeditguy.com/c-drive-cleanup-clearing-the-bloat-without-nuking-the-system)
 
 The article explains why these areas fill up, when to go deeper, and how to automate the process for your own toolkit.
 
